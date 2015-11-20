@@ -2,6 +2,6 @@
 
 void Alex::eat()
 {
-  std::cout << "Yummy Pizza!!" << std::endl;
+  std::cout << "Yummy Cheese!!" << std::endl;
   return;
 }
