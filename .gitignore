@@ -1,0 +1,15 @@
+*.o
+*.orig
+Makefile
+*.cmake
+CMakeCache.txt
+CMakeFiles
+*.exe
+*.vcxproj
+*.filters
+*.sln
+*.manifest
+*.ilk
+*.pdb
+*.res
+*.lib
