@@ -9,6 +9,7 @@ int main()
   Nakata nakata;
   Sawada sawada;
   Alex alex;
+  Teruya teruya;
 
   std::cout << "Higa says: ";
   higa.eat();
@@ -18,6 +19,8 @@ int main()
   sawada.eat();
   std::cout << "Alex says: ";
   alex.eat();
+  std::cout << "Teruya says: ";
+  teruya.eat();
 
   std::getline(std::cin, pause);
   return EXIT_SUCCESS;

@@ -12,7 +12,7 @@ set(CMAKE_CXX_FLAGS "-D_WIN32_WINNT=0x0501 /wd4819 /EHsc /Ot /arch:SSE2")
 set(CMAKE_C_FLAGS "-D_WIN32_WINNT=0x0501 /wd4819 /EHsc /Ot /arch:SSE2")
 set(CMAKE_EXE_LINKER_FLAGS "/NODEFAULTLIB:LIBCMT")
 
-set(MEMBER_SRC src/Member/Higa.cpp src/Member/Nakata.cpp src/Member/Sawada.cpp src/Member/Alex.cpp)
+set(MEMBER_SRC src/Member/Higa.cpp src/Member/Nakata.cpp src/Member/Sawada.cpp src/Member/Teruya.cpp src/Member/Alex.cpp)
 
 set(CMAKE_BUILD_TYPE Release)
 
